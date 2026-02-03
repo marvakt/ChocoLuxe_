@@ -1,0 +1,32 @@
+
+@import 'tailwindcss';
+
+
+/* html, body, #root {
+  margin: -140;
+  padding: 0;
+  height: 100%;
+} */
+
+/* 
+html, body {
+  margin: 0;
+  padding: 0;
+} */
+
+
+#root{
+  /* background-image: url("cvp.jpg"); */
+  
+background: linear-gradient(to top, #f9c7b3, #a9857b );
+
+
+
+
+
+/* background-image: linear-gradient(to righ  t, #f56565, [your_second_color]); */
+}
+
+
+
+
